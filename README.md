@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to Abdullah's Readme 🚶‍♂️
 
 <!--
 **Dementor28/Dementor28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-j
+<div align='center'>
+  <p> Welcome to Abdullah's Readme 🚶‍♂️</p>
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/abdullah-11503025b"><img height="30" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid&an=bounce&sz=sm"></a>&nbsp;
+  </p>
+</div>
+
