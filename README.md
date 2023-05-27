@@ -19,14 +19,12 @@ Here are some ideas to get you started:
 </head>
 <div align='center'>
   <p> Welcome to Abdullah's Readme 🚶‍♂️</p>
-<!--  Linkedin Logo  -->
-<p align='center'>
-  <a href="https://www.linkedin.com/in/abdullah-11503025b">
-    <i class="fa-brands fa-linkedin fa-sm" style="color: #12161c;"height="30" src="https://fontawesome.com/icons/linkedin?f=brands&s=solid&sz=sm&pc=%2312161c">
-      
-  </a>
-</p>
-  </i>
-
+  <!--  Linkedin Logo  -->
+  <p align='center'>
+    <a href="https://www.linkedin.com/in/abdullah-11503025b">
+      <i class="fab fa-linkedin fa-sm" style="color: #12161c;" height="30"></i>
+    </a>
+  </p>
 </div>
+
 
