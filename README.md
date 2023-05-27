@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 <!--  Linkedin Logo  -->
 <p align='center'>
   <a href="https://www.linkedin.com/in/abdullah-11503025b">
-    <img class="fa-brands fa-linkedin fa-bounce fa-sm" height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo">
+    <i class="fa-brands fa-linkedin fa-sm" style="color: #12161c;">height="30" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn Logo">
+      
   </a>
 </p>
+  </i>
 
 </div>
 
