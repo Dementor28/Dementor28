@@ -14,17 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<head>
-  <script src="https://kit.fontawesome.com/993c460f36.js" crossorigin="anonymous"></script>
-</head>
 <div align='center'>
   <p> Welcome to Abdullah's Readme 🚶‍♂️</p>
   <!--  Linkedin Logo  -->
   <p align='center'>
     <a href="https://www.linkedin.com/in/abdullah-11503025b">
-      <i class="fab fa-linkedin fa-sm" style="color: #12161c;" height="30"></i>
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px">
     </a>
   </p>
 </div>
+
 
 
