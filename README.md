@@ -21,6 +21,11 @@ Here are some ideas to get you started:
     <a href="https://www.linkedin.com/in/abdullah-11503025b">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px">
     </a>
+    
+<!--  Instagram Logo    -->
+        <a href="https://www.instagram.com/abduls_20/">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:4px">
+    </a>
   </p>
 </div>
 
