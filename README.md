@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<head>
+  <script src="https://kit.fontawesome.com/993c460f36.js" crossorigin="anonymous"></script>
+</head>
 <div align='center'>
   <p> Welcome to Abdullah's Readme 🚶‍♂️</p>
 <!--  Linkedin Logo  -->
