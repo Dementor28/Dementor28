@@ -23,12 +23,8 @@ Here are some ideas to get you started:
     </a>
     
 <!--  Instagram Logo    -->
-        <a href="https://www.instagram.com/abduls_20/">
-<!--       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:4px"> -->
-            <object data="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" type="image/svg+xml" height="30">
-    Instagram
-  </object>
-
+  <a href="https://www.instagram.com/abduls_20/">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:4px">
     </a>
   </p>
 </div>
