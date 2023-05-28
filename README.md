@@ -1,4 +1,3 @@
-### Working on Readme still...
 
 ## Welcome to Abdullah's Readme 🚶‍♂️
 
