@@ -10,7 +10,7 @@
 
 - [C++](https://www.cplusplus.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30">
 - [Python](https://python.org) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30">
-- [JavaScript](https://javascript.com) <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30">
+- [![JavaScript](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg)](https://javascript.com) JavaScript
 
 #### Activities
 
