@@ -18,6 +18,7 @@
 
 #### Socials
 
-[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://www.linkedin.com/in/abdullah-11503025b)
-[![Instagram](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg)](https://www.instagram.com/abduls_20/)
-[![Outlook](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg)](mailto:abdul05087@outlook.com)
+
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" height="30">](https://www.linkedin.com/in/abdullah-11503025b)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30">](https://www.instagram.com/abduls_20/)
+[<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" alt="Outlook" height="30">](mailto:abdul05087@outlook.com)
