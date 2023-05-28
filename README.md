@@ -1,12 +1,4 @@
 ### Working on Readme still...
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
 <body>
     <div align='center'>
         <p style="font-family:Candara; font-size:35px; border-bottom: solid;"> Welcome to Abdullah's Readme 🚶‍♂️</p>
