@@ -26,6 +26,11 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/abduls_20/">
       <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" alt="Instagram" height="30" style="vertical-align:top; margin:4px">
     </a>
+  
+  <!--  Outlook Logo    -->
+  <a href="mailto:abdul05087@outlook.com">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/microsoftoutlook.svg" alt="Outlook" height="30" style="vertical-align:top; margin:4px">
+    </a>
   </p>
 </div>
 
