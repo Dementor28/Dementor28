@@ -5,6 +5,9 @@
 
 🕸 Now focusing on Frontend Web Development.
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dementor28&label=Profile%20views&color=0e75b6&style=flat" alt="Dementor" /> </p>
+
+
 #### My Skills
 
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" style="margin-right:20px">](https://cplusplus.com/)
