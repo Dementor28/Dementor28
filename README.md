@@ -18,7 +18,7 @@
 
 - Learning C++, Python, REACT, and JavaScript
 - Making a static website using Bootstrap only
-- Updating my [Portfolio Site](https://about-abdullah.netlify.app)
+- Updated [Portfolio Site](https://abdullah002.netlify.app)
 
 #### Socials
 
