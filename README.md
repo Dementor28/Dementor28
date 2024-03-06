@@ -1,7 +1,7 @@
 
 ## Welcome to Abdullah's Readme 🚶‍♂️
 
-💻 I am a Computer Programming student striving to learn to my absolute best.
+💻 I am a Computer Programming student striving to learn my absolute best.
 
 🕸 Now focusing on Frontend Web Development.
 
