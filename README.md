@@ -3,7 +3,7 @@
 
 💻 I am a Computer Programming student striving to learn my absolute best.
 
-🕸 Now focusing on Frontend Web Development.
+🕸 Building myself as a person while learning to code
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Dementor28&label=Profile%20views&color=0e75b6&style=flat" alt="Dementor" /> </p>
 
