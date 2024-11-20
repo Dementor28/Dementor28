@@ -16,8 +16,8 @@
 
 #### Activities
 
-- Learning C++, Python, REACT, and JavaScript
-- Making a static website using Bootstrap only
+- Learning React and C++
+- Making a React website for a restaurant.
 - Updated [Portfolio Site](https://abdullah002.netlify.app)
 
 #### Socials
