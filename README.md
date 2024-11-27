@@ -24,5 +24,5 @@
 
 
 [<img src="https://img.icons8.com/?size=100&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" height="30" style="margin-right:20px">](https://www.linkedin.com/in/abdullah-11503025b)
-[<img src="[https://simpleicons.org/icons/instagram.svg](https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000)" alt="Instagram" height="30" style="margin-right:20px;">](https://www.instagram.com/abduls_20/)
+[<img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" height="30" style="margin-right:20px;">](https://www.instagram.com/abduls_20/)
 [<img src="https://img.icons8.com/?size=100&id=13640&format=png&color=000000" alt="Outlook" height="30">](mailto:abdul05087@outlook.com)
