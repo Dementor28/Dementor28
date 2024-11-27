@@ -17,7 +17,7 @@
 #### Activities
 
 - Learning React and C++
-- Making a React website for a restaurant.
+- My latest project: https://github.com/Dementor28/avec_plaisir
 - Updated [Portfolio Site](https://abdullah002.netlify.app)
 
 #### Socials
